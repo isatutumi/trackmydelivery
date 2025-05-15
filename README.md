@@ -9,6 +9,7 @@ Foi desenvolvido com foco em **operações logísticas, análise de dados e toma
 
 ![Dashboard exemplo](imagens/dashboard_preview.png)
 
+[Acesse aqui!](https://app.powerbi.com/reportEmbed?reportId=ba9d46ac-1b43-4527-b855-81a6286f8ea9&autoAuth=true&ctid=58674b1f-122e-4f0b-989f-a1e1d8191402)
 ---
 
 ## 🎯 Problemas que este projeto resolve
@@ -78,7 +79,7 @@ Essas segmentações permitem múltiplas análises e cruzamentos, facilitando di
 
 ## 👩‍💻 Autor(a)
 
-**Seu Nome Aqui**  
+**Isabeli Harumi**  
 [LinkedIn](https://www.linkedin.com/in/isatutumi) • [GitHub](https://github.com/isatutumi) 
 
 ---
