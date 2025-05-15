@@ -79,7 +79,7 @@ Essas segmentações permitem múltiplas análises e cruzamentos, facilitando di
 
 ## 👩‍💻 Autor(a)
 
-**Isabeli Harumi**  
+**Isabeli Tutumi**  
 [LinkedIn](https://www.linkedin.com/in/isatutumi) • [GitHub](https://github.com/isatutumi) 
 
 ---
